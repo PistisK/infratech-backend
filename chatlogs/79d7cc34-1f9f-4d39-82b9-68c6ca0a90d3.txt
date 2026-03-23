@@ -1,0 +1,5 @@
+[20/03/2026, 6:18:13 pm] USER: hello
+[20/03/2026, 6:18:15 pm] SMART_BOT: Hello! How can Infratech Malawi Limited assist you with your ICT needs today?
+[20/03/2026, 6:19:01 pm] USER: who are you ?
+[20/03/2026, 6:19:12 pm] [SMART_AI_ERROR DETECTED]: *** Using Local A.I, less smarter, check 'smart_AI_error.txt' for error details ***
+[20/03/2026, 6:19:12 pm] LOCAL_BOT: I am an Infratech Malawi Ltd Artificial Intelligence(A.I) assistant, i can help with our services, contacts, or general company information. Please ask or send us an email to admin@infratechmw.com for more details

@@ -1,0 +1,25 @@
+[09/02/2026, 8:22:35 pm] USER: whats your name ?
+[09/02/2026, 8:22:42 pm] SMART_BOT: I am the official AI assistant for Infratech Malawi Limited.
+[09/02/2026, 8:23:24 pm] USER: where is infratech located ?
+[09/02/2026, 8:23:33 pm] SMART_BOT: As the official AI assistant for Infratech Malawi Limited, I can only provide information regarding our company's services, ICT solutions, and support.
+
+For location-specific inquiries, please contact our support team directly:
+*   **Email:** admin@infratechmw.com
+*   **Phone:** +265 999 251 635 (WhatsApp) / ☎️ +265 888 111 909
+[09/02/2026, 8:23:53 pm] USER: great !!
+[09/02/2026, 8:23:55 pm] SMART_BOT: We're glad to hear that! How can Infratech Malawi Limited assist you with your ICT needs today? We offer a range of services including system development, tailored trainings, IT infrastructure solutions, cyber security, cloud services, and systems support.
+[10/02/2026, 10:08:19 pm] USER: hi
+[10/02/2026, 10:08:22 pm] SMART_BOT: Hello! How can I assist you with your ICT needs today?
+[10/02/2026, 10:08:30 pm] USER: who are you ?
+[10/02/2026, 10:08:31 pm] SMART_BOT: I am the official AI assistant for itech Malawi Limited, an ICT solutions provider based in Malawi. We offer a range of services including system development, software solutions, tailored IT training, IT infrastructure design, deployment, and support, as well as systems support and maintenance.
+[10/02/2026, 10:18:23 pm] USER: hello
+[10/02/2026, 10:18:25 pm] SMART_BOT: Hello! How may I assist you with your ICT needs today?
+[10/02/2026, 10:18:36 pm] USER: i need a qoutation
+[10/02/2026, 10:18:38 pm] SMART_BOT: To provide you with an accurate quotation, please specify which of our ICT solutions or services you are interested in. You can choose from:
+
+*   System Development and Software Solutions
+*   Trainings
+*   IT Infrastructure Design, Deployment, and Support
+*   Systems Support and Maintenance
+
+Once you provide more details, we can prepare a tailored quotation for you.

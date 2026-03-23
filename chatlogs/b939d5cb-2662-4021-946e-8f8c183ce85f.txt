@@ -1,0 +1,48 @@
+[13/02/2026, 12:08:23 am] USER: hello
+[13/02/2026, 12:08:26 am] SMART_BOT: Welcome to Infratech Malawi Limited. How may we assist you with your ICT needs today?
+[13/02/2026, 12:08:39 am] USER: services ?
+[13/02/2026, 12:08:40 am] SMART_BOT: Infratech Malawi Limited offers the following services:
+
+*   System Development and Software solutions
+*   Tailored Trainings
+*   IT Infrastructure design, deployment, and support
+*   Systems support and maintenance
+[13/02/2026, 12:08:58 am] USER: thanks
+[13/02/2026, 12:08:59 am] SMART_BOT: You're welcome. How can I assist you with Infratech Malawi Limited's ICT solutions and services today?
+[13/02/2026, 12:09:15 am] USER: location
+[13/02/2026, 12:09:17 am] SMART_BOT: Infratech Malawi Limited is an ICT solutions provider based in Malawi. For specific office location details, please contact our support team.
+[15/02/2026, 4:17:49 am] USER: hello
+[15/02/2026, 4:17:51 am] SMART_BOT: Hello! How can Infratech Malawi Limited assist you today with your ICT needs?
+[16/02/2026, 2:37:25 am] USER: how are you ?
+[16/02/2026, 2:37:27 am] SMART_BOT: As Infratech Malawi Limited, we are focused on providing you with the best ICT solutions and support. How may we assist you today with our services?
+[18/02/2026, 7:18:51 am] USER: hello
+[18/02/2026, 7:18:54 am] SMART_BOT: Hello! How can Infratech Malawi Limited assist you today with your ICT needs?
+[22/02/2026, 4:18:54 pm] USER: hello
+[22/02/2026, 4:18:57 pm] SMART_BOT: Hello! How may I assist you today with Infratech Malawi Limited's ICT solutions and services?
+[22/02/2026, 4:19:11 pm] USER: who owns infratech ?
+[22/02/2026, 4:19:13 pm] SMART_BOT: As the AI assistant for Infratech Malawi Limited, I can only provide information about our company's services, ICT solutions, and support. For inquiries about ownership, please contact our support team directly.
+[22/02/2026, 4:19:31 pm] USER: you have their contacts ?
+[22/02/2026, 4:19:33 pm] SMART_BOT: Yes, we do. You can reach Infratech Malawi Limited at:
+
+*   **Email:** admin@itechmw.com
+*   **Phone (WhatsApp):** +265 999 251 635
+*   **Phone:** +265 888 111 909
+
+Our office hours are Monday to Friday, 8:00 AM to 5:00 PM.
+[01/03/2026, 2:16:41 am] USER: hello
+[01/03/2026, 2:16:44 am] SMART_BOT: Welcome to Infratech Malawi Limited. How can we assist you with your ICT needs today?
+[17/03/2026, 12:59:34 am] USER: hey
+[17/03/2026, 12:59:37 am] SMART_BOT: Hello! How can I assist you today with Infratech Malawi Limited's ICT solutions and services?
+[17/03/2026, 12:59:51 am] USER: how can i contact infratech ?
+[17/03/2026, 12:59:53 am] [SMART_AI_ERROR DETECTED]: *** Using Local A.I, less smarter, check 'smart_AI_error.txt' for error details ***
+[17/03/2026, 12:59:53 am] LOCAL_BOT: You can contact us via email at admin@infratechmw.com or WhatsApp on +265 999 251 635.
+[17/03/2026, 1:00:21 am] USER: do you have branches in Mzuzu ?
+[17/03/2026, 1:00:24 am] SMART_BOT: As Infratech Malawi Limited, we focus on providing comprehensive ICT solutions and support. For inquiries about our branch locations, please contact our support team directly.
+
+You can reach us via:
+*   **Email:** admin@itechmw.com
+*   **Phone:** +265 999 251 635 (WhatsApp) / ☎️ +265 888 111 909
+
+Our office hours are Monday to Friday, 8:00 AM – 5:00 PM.
+[20/03/2026, 6:17:26 pm] USER: hello
+[20/03/2026, 6:17:30 pm] SMART_BOT: Welcome to Infratech Malawi Limited. How can we assist you with our ICT solutions and services today?

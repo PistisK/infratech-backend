@@ -1,0 +1,75 @@
+[02/02/2026, 8:51:32 pm] USER: hello
+[02/02/2026, 8:51:34 pm] [SMART_AI_ERROR DETECTED]: *** Using Local A.I, less smarter, check 'smart_AI_error.txt' for error details ***
+[02/02/2026, 8:51:34 pm] LOCAL_BOT: [object Promise]
+[02/02/2026, 9:06:46 pm] USER: hello
+[02/02/2026, 9:06:48 pm] SMART_BOT: Greetings! How may Infratech Malawi Limited assist you with your ICT needs today?
+[02/02/2026, 9:07:07 pm] USER: hello
+[02/02/2026, 9:07:09 pm] [SMART_AI_ERROR DETECTED]: *** Using Local A.I, less smarter, check 'smart_AI_error.txt' for error details ***
+[02/02/2026, 9:07:09 pm] LOCAL_BOT: [object Promise]
+[02/02/2026, 9:07:35 pm] USER: hello
+[02/02/2026, 9:07:36 pm] [SMART_AI_ERROR DETECTED]: *** Using Local A.I, less smarter, check 'smart_AI_error.txt' for error details ***
+[02/02/2026, 9:07:36 pm] LOCAL_BOT: [object Promise]
+[02/02/2026, 9:08:15 pm] USER: hallo
+[02/02/2026, 9:08:17 pm] SMART_BOT: Greetings! How can Infratech Malawi Limited assist you with your ICT needs today?
+[02/02/2026, 9:08:49 pm] USER: hie
+[02/02/2026, 9:08:51 pm] [SMART_AI_ERROR DETECTED]: *** Using Local A.I, less smarter, check 'smart_AI_error.txt' for error details ***
+[02/02/2026, 9:08:51 pm] LOCAL_BOT: I am an Infratech Malawi Ltd Artificial Intelligence(A.I) assistant, i can help with our services, ☎️contacts, or general company information. Please ask 😊 or send us an email to 📧admin@infratechmw.com for more details
+[03/02/2026, 3:55:45 am] USER: good morning
+[03/02/2026, 3:55:47 am] [SMART_AI_ERROR DETECTED]: *** Using Local A.I, less smarter, check 'smart_AI_error.txt' for error details ***
+[03/02/2026, 3:55:47 am] LOCAL_BOT: I am an Infratech Malawi Ltd Artificial Intelligence(A.I) assistant, i can help with our services, ☎️contacts, or general company information. Please ask 😊 or send us an email to 📧admin@infratechmw.com for more details
+[03/02/2026, 3:56:18 am] USER: what services do you offer ?
+[03/02/2026, 3:56:21 am] SMART_BOT: Infratech Malawi Limited offers a comprehensive range of ICT solutions, including:
+
+*   IT Infrastructure design, deployment, and support
+*   Cyber Security solutions and risk management
+*   Cloud migration, hosting, and optimization
+*   Systems support and maintenance
+
+We serve government institutions, private companies, and NGOs.
+[03/02/2026, 4:00:15 am] USER: services ?
+[03/02/2026, 4:00:17 am] SMART_BOT: Infratech Malawi Limited offers a comprehensive range of ICT solutions including:
+
+*   System Development
+*   Customized Trainings
+*   IT Infrastructure design, deployment, and support
+*   Cyber Security solutions and risk management
+*   Cloud migration, hosting, and optimization
+*   Systems support and maintenance
+
+If you have specific requirements, please feel free to contact us.
+[03/02/2026, 4:00:56 am] USER: i need a computer website
+[03/02/2026, 4:00:59 am] SMART_BOT: Infratech Malawi Limited specializes in **System Development**, which includes the creation of websites. We can tailor a solution to your specific needs.
+
+For more information or to discuss your project, please feel free to contact us via email at admin@infratechmw.com or by phone at +265 999 251 635 / +265 888 111 909.
+[03/02/2026, 4:02:50 am] USER: Great, contacts
+[03/02/2026, 4:02:52 am] SMART_BOT: Thank you for your interest in Infratech Malawi Limited.
+
+You can reach us via:
+*   **Email:** admin@infratechmw.com
+*   **WhatsApp:** +265 999 251 635
+*   **Phone:** +265 888 111 909
+
+Our office hours are Monday to Friday, 8:00 AM to 5:00 PM.
+[03/02/2026, 5:01:10 am] USER: location
+[03/02/2026, 5:01:13 am] SMART_BOT: Infratech Malawi Limited is an ICT solutions provider based in Malawi. For specific location details, please contact our support team.
+[03/02/2026, 5:01:28 am] USER: any email address ?
+[03/02/2026, 5:01:30 am] SMART_BOT: Yes, our email address is admin@infratechmw.com.
+[03/02/2026, 5:01:56 am] USER: phone number ?
+[03/02/2026, 5:01:58 am] SMART_BOT: You can reach Infratech Malawi Limited at:
+
+*   **WhatsApp:** +265 999 251 635
+*   **Phone:** +265 888 111 909
+[03/02/2026, 5:19:13 am] USER: how can i raise a complaint ?
+[03/02/2026, 5:19:16 am] SMART_BOT: For any complaints or further inquiries, please contact our support team directly. You can reach us via:
+
+*   **Email:** admin@infratechmw.com
+*   **Phone (WhatsApp):** +265 999 251 635
+*   **Phone:** +265 888 111 909
+
+Our office hours are Monday to Friday, 8:00 AM to 5:00 PM.
+[03/02/2026, 5:23:03 am] USER: thanks
+[03/02/2026, 5:23:05 am] SMART_BOT: You're welcome! How can Infratech Malawi Limited assist you with your ICT needs today?
+[03/02/2026, 5:23:25 am] USER: no, you have been so helpful
+[03/02/2026, 5:23:28 am] SMART_BOT: You're most welcome! I'm glad I could assist you.
+
+If you have any further questions about Infratech Malawi Limited's ICT solutions, system development, training, IT infrastructure, cyber security, cloud services, or systems support and maintenance, please don't hesitate to ask.
