@@ -65,11 +65,17 @@ const verifyToken = (req, res, next) => {
 
 app.get("/api/test-db", async (req, res) => {
   try {
-    const [rows] = await pool.query("SELECT 1");
-    res.json({ message: "DB connected ✅", rows });
+    const [rows] = await pool.query("SELECT NOW() AS time");
+    res.json({
+      message: "Database connected ✅",
+      serverTime: rows[0].time,
+    });
   } catch (err) {
-    console.error(err);
-    res.status(500).json({ error: "DB connection failed ❌" });
+    console.error("DB ERROR:", err);
+    res.status(500).json({
+      message: "Database connection failed indeed ❌",
+      error: err.message,
+    });
   }
 });
 
