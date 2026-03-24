@@ -146,6 +146,10 @@ app.delete("/api/admin/slides/:id", async (req, res) => {
   res.json({ message: "Slide deleted" });
 });
 
+app.get("/", (req, res) => {
+  res.send("Backend is running ✅");
+});
+
 // app.use("/images", express.static(path.join(__dirname, "images")));
 
 app.use("/images", express.static(path.join(process.cwd(), "public/images")));
