@@ -63,6 +63,16 @@ const verifyToken = (req, res, next) => {
   }
 };
 
+app.get("/api/test-db", async (req, res) => {
+  try {
+    const [rows] = await pool.query("SELECT 1");
+    res.json({ message: "DB connected ✅", rows });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ error: "DB connection failed ❌" });
+  }
+});
+
 // POST /api/admin/login
 app.post("/api/admin/login", async (req, res) => {
   const { email, password } = req.body;
